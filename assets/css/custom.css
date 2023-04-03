@@ -19,7 +19,7 @@ td {
 
 @media screen and (min-width: 961px) {
     section {
-        width: 70%;
+        width: calc(100% - 350px);
     }
 }
 
