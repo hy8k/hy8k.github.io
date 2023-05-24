@@ -8,7 +8,7 @@ layout: default
 ## 投稿一覧
 
 <ul class="tab-bar">
-  <li class="tab">競技プログラミング</li>
+  <li class="tab">競プロ</li>
   <li class="tab">ギター</li>
   <li class="tab">雑記</li>
 </ul>
